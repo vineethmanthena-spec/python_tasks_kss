@@ -5,3 +5,6 @@ list=["a","b","c","d","e"]
 length=len(list)
 print(length)
 5
+list1=[1,4,6,7,8]
+length=len(list1)
+print("the length of list1 is :{length}")
