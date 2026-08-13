@@ -1,6 +1,6 @@
 #4. Student Marks File Analyzer
 
-file = open("Day8Tasks/students_marks_file_analyzer/marks.txt", "r")
+file = open("marks.txt", "r")
 
 total = 0
 count = 0

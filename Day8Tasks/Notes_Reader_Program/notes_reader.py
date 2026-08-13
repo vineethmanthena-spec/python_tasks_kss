@@ -1,6 +1,6 @@
 #2. Notes Reader Program
 
-file = open("Day8Tasks/notes.txt", "r")
+file = open("notes.txt", "r")
 
 content = file.read()
 
