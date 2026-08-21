@@ -1,0 +1,8 @@
+=== STUDENT SCORE REPORT ===
+
+Class Average Score: 69.20
+
+Students Scoring Above 50:
+- Alice: 85
+- Charlie: 78
+- Eva: 92
